@@ -1,0 +1,23 @@
+{
+  "name": "nick_p",
+  "version": "1.0.1",
+  "description": "demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phillipn/NPMDemo.git"
+  },
+  "author": "nick_p",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/phillipn/NPMDemo/issues"
+  },
+  "homepage": "https://github.com/phillipn/NPMDemo#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "repository": "https://github.com/phillipn/NPMDemo#readme"
+}
